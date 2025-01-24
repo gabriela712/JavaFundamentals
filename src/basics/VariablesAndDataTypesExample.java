@@ -26,7 +26,7 @@ public class VariablesAndDataTypesExample {
         System.out.println(isValid);
 
         // Non-Primitive Data Types:
-        String name = "Johana Perez"; // Uses memory as required
+        String name = "Johana Perez"; // Uses memory as requiredOperadores
         System.out.println(name);
         Date now = new Date();
         System.out.println(now);
