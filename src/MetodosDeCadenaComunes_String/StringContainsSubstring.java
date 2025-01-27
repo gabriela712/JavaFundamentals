@@ -10,7 +10,6 @@ public class StringContainsSubstring {
         boolean hasBrooks = fruit.contains("brooks");
 
         System.out.println("The fruit: \"" + fruit + "\"");
-        System.out.println("The fruit \"" + fruit + "\" contains the substring \"ana\": " + hasAna);
         System.out.println("The fruit \"" + fruit + "\" contains the substring \"brooks\": " + hasBrooks);
     }
 }

@@ -1,8 +1,6 @@
 package MetodosDeCadenaComunes_String;
 
-import javax.management.MBeanAttributeInfo;
-
-public class Exercise {
+public class Exercise0 {
     public static void main(String[] args) {
         // Declarar e inicializar las variables
         String firstName = "Harry";
