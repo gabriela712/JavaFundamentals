@@ -23,7 +23,7 @@ public class Exercise3 {
         System.out.println("The third superheroe is: " + thirdSuperhero);
 
         // TODO 3b: Modify the third superhero name
-        String newThirdSuperhero = thirdSuperhero.replace("Wonder Woman", "Alicia");
+        String newThirdSuperhero = thirdSuperhero.replace("Wonder Woman", "Thor");
         System.out.println("The new Third Superhero is: " + newThirdSuperhero);
 
         // TODO 4a: Print the original year of introduction of the third superhero
@@ -31,7 +31,7 @@ public class Exercise3 {
         System.out.println("The third year is: " + thirdYear);
 
         // TODO 4b: Modify the year of introduction of the third superhero
-        introductionYears[2] = 1942;
+        introductionYears[2] = 2011;
         // TODO 4c: Print the modified year of introduction of the third superhero
         System.out.println("The new third year is: " + introductionYears[2]);
 
