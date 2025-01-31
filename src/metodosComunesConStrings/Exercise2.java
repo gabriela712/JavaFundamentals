@@ -1,4 +1,4 @@
-package MetodosDeCadenaComunes_String;
+package metodosComunesConStrings;
 
 public class Exercise2 {
     public static void main(String[] args) {

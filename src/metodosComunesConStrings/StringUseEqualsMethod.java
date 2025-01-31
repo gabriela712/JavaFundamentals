@@ -1,4 +1,4 @@
-package MetodosDeCadenaComunes_String;
+package metodosComunesConStrings;
 
 public class StringUseEqualsMethod {
     public static void main(String args[]) {
