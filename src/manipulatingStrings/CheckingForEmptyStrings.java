@@ -1,2 +1,4 @@
-package manipulatingStrings;public class CheckingForEmptyStrings {
+package manipulatingStrings;
+
+public class CheckingForEmptyStrings {
 }
