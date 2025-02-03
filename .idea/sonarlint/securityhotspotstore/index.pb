@@ -9,21 +9,3 @@ L
 src/basics/FavoriteBook.java,a/6/a61972e573d6e2ea7abdf0bc1c7dd4cb8dddad78
 \
 ,src/basics/VariablesAndDataTypesExample.java,4/6/467bb32169aca529039fb737728c7e723fc46c42
-l
-<src/MetodosDeCadenaComunes_String/StringUseEqualsMethod.java,8/a/8a6abf9a6fb613e905b206bcb856de9f89181ce1
-`
-0src/MetodosDeCadenaComunes_String/Exercise0.java,c/7/c76f9f8752cc1cadb74cdef1b25f17a5c76d96bc
-g
-7src/MetodosDeCadenaComunes_String/StringUpperLower.java,d/3/d3441815886e337bc96c2268483501e6c3b754e5
-h
-8src/MetodosDeCadenaComunes_String/SubstringStartEnd.java,2/d/2d99851aac1037cf1127338f20a652c3d44d35ae
-`
-0src/MetodosDeCadenaComunes_String/Exercise1.java,5/c/5c1d9cc1841ff2b80b06f82bc9f08e100dd697c7
-k
-;src/MetodosDeCadenaComunes_String/StringReplaceAllChar.java,e/b/ebf1948e5c6c1a6444bd9628e5b7010caa9ffd9a
-`
-0src/MetodosDeCadenaComunes_String/Exercise2.java,a/f/afde1c89f2dc4182f0791ade924d5e9fb00ea856
-k
-;src/MetodosDeCadenaComunes_String/StringGetCharAtIndex.java,d/9/d9ab950874ec108f76bb42d7f564678f6d03392d
-c
-3src/MetodosDeCadenaComunes_String/StringLength.java,6/1/6138b7d9abbc6f136cd0c409280059a22eb02017
